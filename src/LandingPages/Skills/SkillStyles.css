@@ -1,0 +1,22 @@
+.skills__title-font {
+  font-size: 3em;
+  font-weight: 500;
+  color: #231d5af8;
+}
+
+.skills__card-focus {
+  transition: transform 0.3s;
+}
+
+.skills__card-focus:hover {
+  transform: scale(1.05);
+}
+
+.skills__card-title {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.skill__icons {
+  width: 3em;
+}
