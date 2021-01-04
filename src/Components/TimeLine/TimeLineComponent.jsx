@@ -28,7 +28,7 @@ const TimeLineComponent = () => {
                       eventKey="0"
                       className="p-2 text-center accordian-main"
                     >
-                      PROJECT DETAILS
+                      CLICK TO SEE PROJECT DETAILS
                     </Accordion.Toggle>
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
@@ -105,7 +105,7 @@ const TimeLineComponent = () => {
                       eventKey="0"
                       className="p-2 text-center accordian-main"
                     >
-                      PROJECT DETAILS
+                      CLICK TO SEE PROJECT DETAILS
                     </Accordion.Toggle>
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
@@ -171,7 +171,7 @@ const TimeLineComponent = () => {
                       eventKey="0"
                       className="p-2 text-center accordian-main"
                     >
-                      PROJECT DETAILS
+                      CLICK TO SEE PROJECT DETAILS
                     </Accordion.Toggle>
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>

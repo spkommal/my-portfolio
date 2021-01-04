@@ -25,8 +25,8 @@ import SUBLIME from "../../assets/img/skills/sublime.svg";
 import PYTHON from "../../assets/img/skills/python.svg";
 import R from "../../assets/img/skills/R.svg";
 
-import SDLC from "../../assets/img/skills/SDLC.svg";
-import AGILE from "../../assets/img/skills/agile.svg";
+import SDLC from "../../assets/img/skills/SDLC.webp";
+import AGILE from "../../assets/img/skills/scrum.webp";
 import JIRA from "../../assets/img/skills/jira.svg";
 
 export const skillsData = {

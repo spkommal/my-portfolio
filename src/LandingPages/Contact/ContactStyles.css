@@ -1,0 +1,10 @@
+.contact__jumbotron {
+  background-image: url("../../assets/img/background/background.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.contactMe__title-font {
+  font-size: 3em;
+  font-weight: 500;
+  color: #231d5af8;
+}

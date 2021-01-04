@@ -10,13 +10,16 @@ import AboutMeComponent from "./LandingPages/About/AboutMeComponent";
 import SkillComponent from "./LandingPages/Skills/SkillsComponent";
 import ExperienceComponent from "./LandingPages/Experience/ExperienceComponent";
 import TimeLineComponent from "./Components/TimeLine/TimeLineComponent";
+import ContactComponent from "./LandingPages/Contact/ContactComponent";
+import FooterComponent from "./Components/Footer/FooterComponent";
 
 function App() {
   return (
-    <div className="App" style={{ position: "relative" }}>
+    <div style={{ position: "relative" }}>
       <NavBarComponent />
       <CarouselComponent />
       <CarouselMessageComponent />
+
       <Parallax
         blur={{ min: -30, max: 30 }}
         bgImage={ParallaxImg}
@@ -47,6 +50,16 @@ function App() {
           <TimeLineComponent />
         </Slide>
       </Container>
+      <Container className="container-box rounded">
+        <Slide bottom duration={500}>
+          <hr />
+          <ContactComponent />
+        </Slide>
+      </Container>
+      <div>
+        <hr />
+        <FooterComponent />
+      </div>
     </div>
   );
 }

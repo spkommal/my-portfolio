@@ -36,27 +36,27 @@ const ExperienceComponent = () => {
                     <br />
                     <strong>Duration :</strong> Nov-2019 to Present
                     <br />
-                    <strong> Description </strong>
                     <ul className="text-left">
                       <li>
-                        <strong>Developed &amp; enhanced</strong> multiple
-                        features with customizability option across web
-                        application.
+                        Built a software using <strong>Python-Selenium </strong>
+                        that automates the extraction of invoice reports.
                       </li>
                       <li>
-                        <strong>Developed</strong> automation system to create
-                        SQL bulk query scripts that increased efficiency by 80%
-                        and decreased working hours from 4 hours to 30 mins per
-                        task.
+                        Developed a software using
+                        <strong> Python XML API</strong> and
+                        <strong> SQL</strong>. The software handles the parsing
+                        of XML files and transfers large chunks of data from
+                        parsed files to appropriate SQL tables governed by the
+                        business rules.
                       </li>
                       <li>
-                        <strong>Provided</strong> application maintenance while
-                        working as `Production Support`.
+                        The number of reports that can be audited increased from
+                        5 per hour to 60 per hour using the tool.
                       </li>
                       <li>
-                        <strong>Performed</strong> CRUD operations on multiple
-                        databases to load/ remove data according to the business
-                        requirements.
+                        As a CSR, receive in-bound calls and document the loss
+                        details of auto and property insurance claims for
+                        multiple insurance clients.
                       </li>
                     </ul>
                   </Card.Text>
@@ -89,24 +89,28 @@ const ExperienceComponent = () => {
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li>
-                        <strong>Developed &amp; enhanced</strong> multiple
-                        features with customizability option across web
-                        application.
+                        Developed a web application, used by Orthodontists from
+                        scratch using
+                        <strong> React JS, Redux, JavaScript </strong>
+                        and made the application compatible and error free in
+                        all the devices and browsers by writing high quality
+                        code.
                       </li>
                       <li>
-                        <strong>Developed</strong> automation system to create
-                        SQL bulk query scripts that increased efficiency by 80%
-                        and decreased working hours from 4 hours to 30 mins per
-                        task.
+                        Worked with Agile team and migrated a legacy web
+                        application to a brand-new design using
+                        <strong> JavaScript, HTML5, CSS3 and Bootstrap </strong>
+                        while ensuring the backward compatibility.
                       </li>
+                      Improved the performance of home page that displays large
+                      amount of data in tables by implementing conditional
+                      rendering and lazy loading using React. The loading time
+                      was reduced by 80%.
                       <li>
-                        <strong>Provided</strong> application maintenance while
-                        working as `Production Support`.
-                      </li>
-                      <li>
-                        <strong>Performed</strong> CRUD operations on multiple
-                        databases to load/ remove data according to the business
-                        requirements.
+                        Developed highly reusable Web Components using React and
+                        re-used the components to develop around 150+ static
+                        websites for automobile dealers and increased the
+                        traffic to promotion pages between 60% – 80 %.
                       </li>
                     </ul>
                   </Card.Text>
